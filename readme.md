@@ -4,3 +4,6 @@
 2. GitHub verzió kezelő letöltése és telepítése
 3. VSC-ban mappa megnyitása
 4. Local repository létrehozásag
+5. Kapcsolódás a remote reposytorihoz
+6. Push művelet
+7. Pull művelet
