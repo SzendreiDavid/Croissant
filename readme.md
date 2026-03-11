@@ -10,3 +10,4 @@
 8. Szinkronizálás
 9. Konfliktus kezelés
 10. Csoporttag invite
+11. Idk
