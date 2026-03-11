@@ -12,3 +12,4 @@
 10. Csoporttag invite
 11. Klónozás
 11. Idk
+imadom a feketeket 6767
