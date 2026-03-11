@@ -11,3 +11,4 @@
 9. Konfliktus kezelés
 10. Csoporttag invite
 11. Klónozás
+11. Idk
